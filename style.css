@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(152, 215, 236);
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.un-list {
+    background: rgb(224, 220, 220);
+    font-size: 20px;
+}
